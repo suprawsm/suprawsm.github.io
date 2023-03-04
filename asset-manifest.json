@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.6d25b02d.css",
+    "main.css": "./static/css/main.a0f739f4.css",
     "main.js": "./static/js/main.17646ff7.js",
     "static/media/my_font_light-webfont.woff2": "./static/media/my_font_light-webfont.38c259379e28695c9583.woff2",
     "static/media/my_font_bold-webfont.woff2": "./static/media/my_font_bold-webfont.18e5a7921d16cfe6519e.woff2",
     "index.html": "./index.html",
-    "main.6d25b02d.css.map": "./static/css/main.6d25b02d.css.map",
+    "main.a0f739f4.css.map": "./static/css/main.a0f739f4.css.map",
     "main.17646ff7.js.map": "./static/js/main.17646ff7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d25b02d.css",
+    "static/css/main.a0f739f4.css",
     "static/js/main.17646ff7.js"
   ]
 }
